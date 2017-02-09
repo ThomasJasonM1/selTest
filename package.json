@@ -1,0 +1,19 @@
+{
+  "name": "selenium-webdriver",
+  "version": "1.0.0",
+  "description": "selenium",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "jasmine": "^2.5.2",
+    "selenium-webdriver": "^3.0.1",
+    "url-regex": "^4.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
